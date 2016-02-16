@@ -6,9 +6,10 @@
     <wfs password="" referer="" username="" url="https://download.data.grandlyon.com/wfs/grandlyon" name="GRAND_LYON"/>
 
     <!-- MONTPELLIER METROPOLE -->
-    <wfs password="" referer="" username="" url="http://wfs.siglr.org/wfsmmm? SERVICE=WFS&amp;VERSION=1.0.0&amp;REQUEST=GetCapabilities" name="METROPOLE_MONTPELLIER"/>
+    <wfs password="" referer="" username="" url="http://wfs.siglr.org/wfsmmm?SERVICE=WFS&amp;VERSION=1.0.0&amp;REQUEST=GetCapabilities" name="METROPOLE_MONTPELLIER"/>
 
     <!-- ///////////////////// DEPARTEMENT ///////////////////// -->
+
     <!-- CARTORISQUE -->
     <wfs password="" referer="" username="" url="http://cartorisque.prim.net/wfs/01?" name="DEPARTEMENT_01_CARTORISQUE"/>
     <wfs password="" referer="" username="" url="http://cartorisque.prim.net/wfs/02?" name="DEPARTEMENT_02_CARTORISQUE"/>
@@ -115,7 +116,10 @@
 
     <!-- 85 - GEO VENDEE -->
     <wfs password="" referer="" username="" url="http://carto.geovendee.fr/cgi-bin/mapservwfs?" name="DEPARTEMENT_85_VENDEE"/>
-
+    
+    <!-- 93 - SEINE-SAINT-DENIS - GEOPORTAIL93.fr -->
+    <wfs password="" referer="" username="" url="http://geoportail93.fr/SERV/DATA/" name="DEPARTEMENT_93_SEINE_SAINT_DENIS"/>
+    
     <!-- 94 - GEO VAL DE MARNE -->
     <wfs password="" referer="" username="" url="http://geo.valdemarne.fr/viewer/" name="DEPARTEMENT_94_VAL_DE_MARNE"/>
 
